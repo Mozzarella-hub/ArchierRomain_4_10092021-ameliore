@@ -872,6 +872,11 @@ justify-content: center;
         padding-left: 0;
         padding-right: 0;
     }
+    
+    .stagiaire-perso
+    {
+      margin-right: 60px;
+    }
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
